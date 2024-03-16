@@ -9,7 +9,7 @@ WIDTH, HEIGHT = 1345, 998
 
 # Setup
 WIN = pg.display.set_mode((WIDTH, HEIGHT))
-pg.display.set_caption("ASCII Converter")
+pg.display.set_caption("ASCII Renderer")
 FPS = 60
 
 BLACK = (0, 0, 0)
